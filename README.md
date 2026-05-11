@@ -1,2 +1,2 @@
 # My-First-App
-this is my first Project
+This is my first Project
